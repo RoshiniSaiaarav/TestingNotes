@@ -1,3 +1,6 @@
 Thermodynamics is the study of heat, energy, and the relationships between them, 
 focusing on how energy transforms and 
 transfers within systems
+thermodynamics are of two types endothermic and exothermic
+endothermic is absorb heat
+exothermic releases heat
